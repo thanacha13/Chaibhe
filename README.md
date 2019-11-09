@@ -7,8 +7,16 @@
 
 2.ใส่จำนวนว่าต้องการกี่ชุด
 
+![2](https://user-images.githubusercontent.com/48233958/68531675-7e046500-0347-11ea-8b02-507939b2fa3b.PNG)
+
 3.กดปุ่มเพิ่ม
+
+![3](https://user-images.githubusercontent.com/48233958/68531679-83fa4600-0347-11ea-926e-91b4fa4beb39.PNG)
 
 4.หากเราสั่งรายการผิดเราสามารถลบรายอาหารได้โดยกดปุ่มลบ
 
+![4](https://user-images.githubusercontent.com/48233958/68531679-83fa4600-0347-11ea-926e-91b4fa4beb39.PNG)
+
 5หากต้องเปลี่ยนจำนวนรายการอาหารนั้นสามารถกดแก้ไขแล้วใส่จำนวนใหม่ในช่องจำนวนได้เลย
+
+![5](https://user-images.githubusercontent.com/48233958/68531681-8b215400-0347-11ea-9643-e80cdf916222.PNG)
